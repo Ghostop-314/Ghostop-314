@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 ## Magic Updates ❄
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=QuirkyDevil&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuirkyDevil&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=QuirkyDevil&theme=dracula"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ghostop-314&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostop-314&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ghostop-314&theme=dracula"></div>
