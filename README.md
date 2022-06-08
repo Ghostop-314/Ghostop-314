@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghostop-314
 - 👀 I’m interested in  AI AND ML.
-- 🌱 I’m currently learning MIT - WPU.
+- 🌱 I’m currently learning JAVA AND Python.
 - 💞️ I’m looking to collaborate on all projects.
 <!---
 Ghostop-314/Ghostop-314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
